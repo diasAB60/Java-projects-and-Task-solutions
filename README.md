@@ -1,2 +1,4 @@
-# Java-codes-and-tasks
-here I will submit my java codes and tasks and projects. 
+# Java-projects and task-Solutions
+
+Java projects on JavaFX;
+Leetcode easy level tasks solutions on Java
